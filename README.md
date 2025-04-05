@@ -14,7 +14,6 @@ I’m a data-driven problem solver with a deep interest in analytics, data scien
 - 🧠 Passion about analytics, psychology, decision-making, technology, AI, and making the world a better place
 - 🔍 Learning fast: R, Python, SQL
 - 🤝 Open to co-ops, internships, and real-world projects in analytics, data, or strategy
-- 
 
 ---
 
