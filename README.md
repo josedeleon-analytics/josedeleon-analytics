@@ -11,9 +11,10 @@
 I’m a data-driven problem solver with a deep interest in analytics, data science, and building tools that create real-world impact. I bring a unique perspective shaped by my international background, self-funded education, and a journey of personal growth — advancing 3–4 generations in one lifetime.
 
 - 📊 Background in Industrial Engineering, business and supply chain
-- 🧠 Passion for psychology, decision-making, technology, AI, and making the world a better place
+- 🧠 Passion about analytics, psychology, decision-making, technology, AI, and making the world a better place
 - 🔍 Learning fast: R, Python, SQL
 - 🤝 Open to co-ops, internships, and real-world projects in analytics, data, or strategy
+- 
 
 ---
 
@@ -23,19 +24,25 @@ I’m a data-driven problem solver with a deep interest in analytics, data scien
 - **Libraries**: `ggplot2`, `dplyr`, `tidyverse` 
 - **Tools**: RStudio, GitHub, Excel, SQL lite  
 - **Concepts**: Hypothesis testing, regression modeling, EDA, data cleaning, visualization
+- **Analytics & Reporting**: R, Excel, Data Visualization, Dashboards 
+- **Soft Skills**: Communication, Storytelling with Data, User-Centered Design
 
 ---
 
 ## 📁 Featured Projects
 
 - 🎮 [**Video Game Sales Analysis**](https://github.com/josedeleon-analytics/video-game-sales-analysis)  
-  Statistical testing & regression modeling using VGChartz data (R)
+  ➤ EDA, statistical testing, and regression on VGChartz data using R
 
-- 🧮 SQL Project
-  
+- 👚 [**Virtual Closet Platform**](https://github.com/YOUR_USERNAME/Virtual-Closet-Platform)  
+  ➤ A cloud-based, SQL-powered app promoting sustainable fashion (Final project for ITC6000)
+
 ---
 
 ## 🌱 Currently Learning
+- Building dashboards  
+- Advanced SQL & Data Modeling  
+- Deploying analytics apps  
 
 
 
