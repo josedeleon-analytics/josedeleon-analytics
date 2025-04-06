@@ -43,7 +43,6 @@ I’m a data-driven problem solver with a deep interest in analytics, data scien
 - Advanced SQL & Data Modeling  
 - Deploying analytics apps
 - Advance Python
--   
 
 
 
