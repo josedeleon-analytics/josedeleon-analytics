@@ -34,7 +34,7 @@ I’m a data-driven problem solver with a deep interest in analytics, data scien
   ➤ EDA, statistical testing, and regression on VGChartz data using R
 
 - 👚 [**Virtual Closet Platform**](https://github.com/josedeleon-analytics/virtual-closet-platform)  
-  ➤ A cloud-based, SQL-powered app promoting sustainable fashion (Final project for ITC6000)
+  ➤ A cloud-based, SQL-powered app promoting sustainable fashion
 
 ---
 
