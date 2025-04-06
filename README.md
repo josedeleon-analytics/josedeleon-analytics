@@ -50,7 +50,7 @@ I’m a data-driven problem solver with a deep interest in analytics, data scien
 ## 📫 Let’s Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/jose-de-leon-analytics/)  
-- 📬 [Email Me](mailto:j.ange2294@gmail.com)
+- 📬 [Email Me](mailto:j.angel2294@gmail.com)
 
 Thanks for visiting — I’m excited to grow, learn, and collaborate!
 
