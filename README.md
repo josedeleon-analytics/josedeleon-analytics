@@ -41,7 +41,9 @@ I’m a data-driven problem solver with a deep interest in analytics, data scien
 ## 🌱 Currently Learning
 - Building dashboards  
 - Advanced SQL & Data Modeling  
-- Deploying analytics apps  
+- Deploying analytics apps
+- Advance Python
+-   
 
 
 
@@ -52,6 +54,6 @@ I’m a data-driven problem solver with a deep interest in analytics, data scien
 - [LinkedIn](https://www.linkedin.com/in/jose-de-leon-analytics/)  
 - 📬 [Email Me](mailto:j.angel2294@gmail.com)
 
-Thanks for visiting — I’m excited to grow, learn, and collaborate!
+Thanks for visiting, I’m excited to collaborate!
 
 ---
