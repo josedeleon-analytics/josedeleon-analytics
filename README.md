@@ -30,10 +30,10 @@ I’m a data-driven problem solver with a deep interest in analytics, data scien
 
 ## 📁 Featured Projects
 
-- 🎮 [**Video Game Sales Analysis**](https://github.com/josedeleon-analytics/video-game-sales-analysis)  
+- 🎮 [**Video Game Sales Analysis**](https://github.com/josedeleon-analytics/vgchartz-sales-analysis)  
   ➤ EDA, statistical testing, and regression on VGChartz data using R
 
-- 👚 [**Virtual Closet Platform**](https://github.com/YOUR_USERNAME/Virtual-Closet-Platform)  
+- 👚 [**Virtual Closet Platform**](https://github.com/josedeleon-analytics/virtual-closet-platform)  
   ➤ A cloud-based, SQL-powered app promoting sustainable fashion (Final project for ITC6000)
 
 ---
