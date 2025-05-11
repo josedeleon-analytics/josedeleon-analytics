@@ -36,6 +36,9 @@ I’m a data-driven problem solver with a deep interest in analytics, data scien
 - 👚 [**Virtual Closet Platform**](https://github.com/josedeleon-analytics/virtual-closet-platform)  
   ➤ A cloud-based, SQL-powered app promoting sustainable fashion
 
+- 🚗 [**Regional Auto Sales Dashboard**](https://github.com/josedeleon-analytics/regional-auto-sales-dashboard-PowerBI)  
+  ➤ A Power BI dashboard exploring car sales trends by brand, region, color, and customer demographics using interactive KPIs
+
 ---
 
 ## 🌱 Currently Learning
