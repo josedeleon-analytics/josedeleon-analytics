@@ -21,7 +21,7 @@ I’m a data-driven problem solver with a deep interest in analytics, data scien
 
 - **Languages**: R, Python, SQL
 - **Libraries**: `ggplot2`, `dplyr`, `tidyverse` 
-- **Tools**: RStudio, GitHub, Excel, SQL lite  
+- **Tools**: RStudio, GitHub, Excel, SQL lite, PowerBI  
 - **Concepts**: Hypothesis testing, regression modeling, EDA, data cleaning, visualization
 - **Analytics & Reporting**: R, Excel, Data Visualization, Dashboards 
 - **Soft Skills**: Communication, Storytelling with Data, User-Centered Design
