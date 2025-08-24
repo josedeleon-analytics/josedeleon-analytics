@@ -2,6 +2,7 @@
 
 🎓 Master’s in Analytics Candidate at Northeastern University  
 📍 Based in Vancouver
+
 💼 Focused on turning data into insights that drive decisions  
 
 ---
