@@ -2,7 +2,7 @@
 
 🎓 Master’s in Analytics Candidate at Northeastern University  
 📍 Based in Vancouver  
-💼 Focused on turning data into insights that drive decisions
+📊 Turning data into decisions | R, Python, SQL | Analytics + Supply Chain
 
 ---
 
@@ -21,33 +21,36 @@ I’m a data-driven problem solver with a deep interest in analytics, data scien
 
 - **Languages**: R, Python, SQL
 - **Libraries**: `ggplot2`, `dplyr`, `tidyverse` 
-- **Tools**: RStudio, GitHub, Excel, SQL lite, PowerBI  
+- **Tools**: RStudio, GitHub, Excel, SQLite, Power BI, Tableau  
 - **Concepts**: Hypothesis testing, regression modeling, EDA, data cleaning, visualization
 - **Analytics & Reporting**: R, Excel, Data Visualization, Dashboards 
-- **Soft Skills**: Communication, Storytelling with Data, User-Centered Design
+- **Soft Skills**: Communication, Storytelling with Data, Problem Solving, Statistical Analysis
 
 ---
 
-## 📁 Featured Projects
+## 📁 Featured Projects  
 
-- 🎮 [**Video Game Sales Analysis**](https://github.com/josedeleon-analytics/vgchartz-sales-analysis)  
-  ➤ EDA, statistical testing, and regression on VGChartz data using R
+- 🏡 [**Melbourne Housing Price Analysis**](https://github.com/josedeleon-analytics/melbourne-housing-analysis)  
+  ![R](https://img.shields.io/badge/R-Stats%20%26%20ML-blue)  
+  ➤ Comprehensive statistical & machine learning analysis of Melbourne housing prices  
+  ➤ Applied multiple regression, ANOVA, and LASSO to uncover drivers of property value  
 
 - 👚 [**Virtual Closet Platform**](https://github.com/josedeleon-analytics/virtual-closet-platform)  
-  ➤ A cloud-based, SQL-powered app promoting sustainable fashion
+  ![SQLite](https://img.shields.io/badge/SQL-SQLite-blue?logo=sqlite&logoColor=white) ![Cloud](https://img.shields.io/badge/Cloud-AWS%2FAzure-orange)  
+  ➤ A cloud-based, SQL-powered app promoting sustainable fashion  
+  ➤ Designed a scalable relational database & 3-tier cloud architecture  
 
-- 🚗 [**Regional Auto Sales Dashboard**](https://github.com/josedeleon-analytics/regional-auto-sales-dashboard-PowerBI)  
-  ➤ A Power BI dashboard exploring car sales trends by brand, region, color, and customer demographics using interactive KPIs
+- 📊 [**Customer Churn Analytics (Power BI + Tableau)**](https://github.com/josedeleon-analytics/customer-churn-powerbi)  
+  ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow) ![Tableau](https://img.shields.io/badge/Tableau-Dashboards-blue?logo=tableau&logoColor=white)  
+  ➤ Interactive Power BI & Tableau dashboards analyzing customer churn patterns  
+  ➤ Built KPI-driven visuals & filters to support retention strategy decisions  
+
+👉 Explore my **full portfolio** on my [GitHub Repositories](https://github.com/josedeleon-analytics?tab=repositories).
 
 ---
 
 ## 🌱 Currently Learning
-- Building dashboards  
-- Advanced SQL & Data Modeling  
-- Deploying analytics apps
-- Advance Python
-
-
+➤ Expanding skills in dashboards, advanced SQL, and app deployment to prepare for real-world analytics and co-op opportunities
 
 ---
 
