@@ -40,7 +40,7 @@ I’m a data-driven problem solver with a deep interest in analytics, data scien
   ➤ A cloud-based, SQL-powered app promoting sustainable fashion  
   ➤ Designed a scalable relational database & 3-tier cloud architecture  
 
-- 📊 [**Customer Churn Analytics (Power BI + Tableau)**](https://github.com/josedeleon-analytics/customer-churn-powerbi)  
+- 📊 [**Customer Churn Analytics (Power BI + Tableau)**](https://github.com/josedeleon-analytics/Customer-Churn-Analytics-Power-BI-Tableau-)  
   ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow) ![Tableau](https://img.shields.io/badge/Tableau-Dashboards-blue?logo=tableau&logoColor=white)  
   ➤ Interactive Power BI & Tableau dashboards analyzing customer churn patterns  
   ➤ Built KPI-driven visuals & filters to support retention strategy decisions  
