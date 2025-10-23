@@ -2,17 +2,16 @@
 
 🎓 Master’s in Analytics Candidate at Northeastern University  
 📍 Based in Vancouver  
-📊 Turning data into decisions | R, Python, SQL | Analytics + Supply Chain
+📊 Turning data into decisions | R, Python, SQL | Analytics + Data Science
 
 ---
 
 ## 💡 About Me
 
-I’m a data-driven problem solver with a deep interest in analytics, data science, and building tools that create real-world impact. I bring a unique perspective shaped by my international background, self-funded education, and a journey of personal growth — advancing 3–4 generations in one lifetime.
+I’m a data-driven problem solver with a deep interest in analytics, data science, startups ecosystems and building tools that create real-world impact. I bring a unique perspective shaped by my international background, self-funded education, and a journey of personal growth — advancing 3–4 generations in one lifetime.
 
 - 📊 Background in Industrial Engineering, business and supply chain
-- 🧠 Passion about analytics, psychology, decision-making, technology, AI, and making the world a better place
-- 🔍 Learning fast: R, Python, SQL
+- 🧠 Passion about data, startups and venture capitals, health and psychology, decision-making, technology, AI, and making the world a better place
 - 🤝 Open to co-ops, internships, and real-world projects in analytics, data, or strategy
 
 ---
