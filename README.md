@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm José De León!
 
 💼 Professional with 8+ years of data analytics experience in supply chain and business
-📍 Based in Panama  
 📊 Turning noise into signal | R, Python, SQL | Analytics + Data Science
 
 ---
