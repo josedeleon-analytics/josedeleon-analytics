@@ -7,9 +7,8 @@
 ---
 
 ## 💡 About Me
-https://github.com/josedeleon-analytics/josedeleon-analytics/blob/main/README.md
 
-I’m a data-driven problem solver with a deep interest in analytics, data science, startups ecosystems and building tools that create real-world impact. I bring a unique perspective shaped by my international background, self-funded education, and a journey of personal growth — advancing 3–4 generations in one lifetime.
+I’m a data-driven problem solver with a deep interest in analytics, data science, and building tools that could impact the world. I bring a unique perspective shaped by my international background, self-funded education, and a journey of personal growth — advancing 3–4 generations in one lifetime.
 
 - 📊 Background in Industrial Engineering, business and supply chain
 - 🧠 Passion about data, healthcare, psychology, decision-making, technology, AI, and making the world a better place
